@@ -1,0 +1,4 @@
+status,sequence,report_id,artifact_id,title,material,finding,inspection_date,treatment_hours
+Scheduled,1,CR-704,AR-103,Woven Map,textile,severe,2062-07-01,6
+Scheduled,2,CR-703,AR-102,Compass of North,metal,moderate,2062-07-01,3
+Waiting,—,CR-701,AR-101,Tide Chart,paper,severe,2062-07-02,4
