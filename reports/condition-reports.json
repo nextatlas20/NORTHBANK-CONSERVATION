@@ -1,0 +1,9 @@
+[
+  {"report_id":"CR-701","artifact_id":"AR-101","inspection_date":"2062-07-02","finding":"severe","treatment_hours":4,"state":"open","revision":1},
+  {"report_id":"CR-702","artifact_id":"AR-102","inspection_date":"2062-06-28","finding":"moderate","treatment_hours":2,"state":"closed","revision":1},
+  {"report_id":"CR-703","artifact_id":"AR-102","inspection_date":"2062-07-01","finding":"moderate","treatment_hours":3,"state":"open","revision":2},
+  {"report_id":"CR-704","artifact_id":"AR-103","inspection_date":"2062-07-01","finding":"severe","treatment_hours":6,"state":"open","revision":1},
+  {"report_id":"CR-705","artifact_id":"AR-104","inspection_date":"2062-07-03","finding":"severe","treatment_hours":1,"state":"open","revision":1},
+  {"report_id":"CR-706","artifact_id":"AR-999","inspection_date":"2062-07-01","finding":"severe","treatment_hours":1,"state":"open","revision":1},
+  {"report_id":"bad","artifact_id":"AR-101","inspection_date":"2062-07-02","finding":"minor","treatment_hours":1,"state":"open","revision":3}
+]
